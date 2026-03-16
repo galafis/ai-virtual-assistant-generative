@@ -1,0 +1,15 @@
+Data Science - Conceitos Fundamentais
+
+Data Science e uma area interdisciplinar que utiliza metodos cientificos, processos, algoritmos e sistemas para extrair conhecimento e insights de dados estruturados e nao estruturados.
+
+Principais etapas do processo de Data Science:
+1. Coleta de dados
+2. Limpeza e preparacao dos dados
+3. Analise exploratoria (EDA)
+4. Modelagem e algoritmos
+5. Avaliacao e validacao
+6. Deploy e monitoramento
+
+Ferramentas populares: Python, R, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch.
+
+Areas de aplicacao: deteccao de fraudes, sistemas de recomendacao, processamento de linguagem natural, visao computacional, analise preditiva.
